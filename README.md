@@ -19,6 +19,8 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 </p>
 
+
+<p align="center">📚 My stats 📚</p>
 <p align="center">
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjoe1850&theme=algolia&show_icons=true" width="42%" />
