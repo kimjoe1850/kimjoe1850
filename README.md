@@ -1,5 +1,6 @@
+<p align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia) 
-
+</p>
 
 <p align="center">💻 Once I've Used 💻</p>
 
