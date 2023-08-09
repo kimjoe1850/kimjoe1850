@@ -1,10 +1,3 @@
-<div align="center">
- 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
-</div>
- 
-
-
 
 
 <p align="center">💻 Once I've Used 💻</p>
@@ -23,8 +16,10 @@
 <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
 </p>
 
- <p align="center">
-   
 
+<div align="center">
  
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
+</div>
+ 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkimjoe1850%2Fhit-counter&count_bg=%233172F3&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
