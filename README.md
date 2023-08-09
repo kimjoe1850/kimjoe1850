@@ -18,7 +18,9 @@
 
 
 <div align="center">
- 
+ <a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=kimjoe1850&theme=algolia&show_icons=true" width="42%" />
+ </a>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
 </div>
 
@@ -29,8 +31,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimjoe1850&exclude_repo=kimjoe1850.github.io&layout=compact&theme=tokyonight" />
 </a>
-<a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=kimjoe1850&theme=algolia&show_icons=true" width="42%" />
-</a>
+
+
 
 </div>
