@@ -1,16 +1,13 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
 
-<div align="center">
-  💻: Once I've Used  
-</div>
 
- <br/>
+### 💻: Once I've Used  
+---------------------------------
 <p align="center">
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
-
  </p>
 
  <p align="center">
