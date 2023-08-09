@@ -27,6 +27,9 @@
 </br>
 
 <p align="center">📚 My stats 📚</p>
+
+---------------------------------
+
 <p align="center">
  <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=kimjoe1850&theme=algolia&show_icons=true" width="42%" />
