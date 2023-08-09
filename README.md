@@ -21,7 +21,7 @@
    
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimjoe1850)](https://solved.ac/kimjoe1850)
    
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjoe1850&langs_count=8) (https://github.com/kimjoe1850/github-readme-stats)
- </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjoe1850&layout=compact)](https://github.com/kimjoe1850/github-readme-stats)
  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
+ </p>
