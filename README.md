@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<a href="https://velog.io/@kimjoe1850" target="_blank"><img src="https://img.shields.io/badge/velog-#20C997?style=plastic&logo=appveyor&logoColor=000000"/></a>
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kimjoe1850&show_icons=true&theme=algolia)
